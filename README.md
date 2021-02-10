@@ -1,4 +1,4 @@
-## 3 Months in Data Science
+## Data Science in 3 Months
 
 I started my journy of learning Data Science from Jan 2021.
 
